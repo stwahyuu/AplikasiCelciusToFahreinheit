@@ -1,0 +1,4 @@
+Nama : Wahyu
+Nilai Rata-Rata : 84.0
+Grade : B
+Hasil : Lulus
